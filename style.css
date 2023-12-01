@@ -43,6 +43,7 @@ ul, ol {
   padding: 20px;
   background-color: #b8a6978d;
   border-radius: 10px;
+  list-style: none;
 }
 
 .grid-item:hover{
