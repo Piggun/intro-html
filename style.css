@@ -1,5 +1,5 @@
 body {
-  background-color: #97d2fb;
+  background-color: #b8a6973c;
   text-align: center;
 }
 
@@ -24,7 +24,7 @@ ul, ol {
   height: 300px;
   border-radius: 40px;
   border: 5px solid rgba(0, 0, 0, 0.5);
-  margin: 30px;
+  margin: 5px;
 }
 
 .grid-container {
@@ -43,4 +43,9 @@ ul, ol {
   padding: 20px;
   background-color: #b8a6978d;
   border-radius: 10px;
+}
+
+.grid-item:hover{
+  background-color: #b8a697;
+  cursor: pointer;
 }
